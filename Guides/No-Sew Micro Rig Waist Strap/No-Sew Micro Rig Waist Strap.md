@@ -13,34 +13,53 @@ Most micro rigs use a loop of 1" nylon webbing stitched into the chassis of the 
 ## Chassis Attachment Hardware Choices
 
 For the hardware used to attach the waist strap to the chassis, there are two common choices. Their traits will be provided under each:
-- Split-bar Side-release buckles
-    - Quick-Detach
-    - Hard to accidentally disconnect
-    - Holds position without needing end retention
-    - Longer footprint, some people find this irritating
-- G-Hooks
-    - Quick-detach
-    - Easy to accidentally disconnect if the waist strap is not properly tensioned
-    - Holds position without needing end retention
-    - Metal, more resilient than polymer solutions
+### Split-bar Side-release buckles
+
+![image](./images/sidereleasebuckle.png)
+
+This is an ITW Nexus GTSR split bar body and ladderloc latch
+
+- Quick-Detach
+- Hard to accidentally disconnect
+- Holds position without needing end retention
+- Longer footprint, some people find this irritating
+### G-Hooks
+
+![image](./images/ghook.png)
+
+- Quick-detach
+- Easy to accidentally disconnect if the waist strap is not properly tensioned
+- Holds position without needing end retention
+- Metal, more resilient than polymer solutions
 
 There are some less-common hardware choices that may work in a pinch, but lack many of the Quality Of Life features the common solutions provide.Their detriments will be provided under each:
-- Split-bar Ladderlock 
-    - This requires you to adjust the waist strap size in order to put on/take off your rig, rather than setting your size once and using quick-detach
-    - Does not allow for quick detach
-    - May slip position if jostled and end retention is not present
-- Split-bar Quick-Release Tubes
-    - QR Tubes require some pushback from tension/weight lateral to the tube in order to disconnect. Waist straps do not provide enough tension to allow tubes to reliably disconnect
-    - Requires end retention hardware
-- Split-bar D-Rings + HK-style sling hooks
-    - Metal, jangles around when you move, but more resilient than polymer solutions
-    - The HK hook would be rotated 90 degrees from the D-ring, making it dig into your side
-    - Requires end retention hardware
-- Split bar Looplock
-    - Very small footprint
-    - No quick release whatsoever
-    - Requires end retention hardware
-    - Metal and Polymer options are available
+### Split-bar Ladderlock 
+
+![image](./images/ladderloc.png)
+
+This is an ITW nexus GTLL 100 Split-Bar slider
+
+- This requires you to adjust the waist strap size in order to put on/take off your rig, rather than setting your size once and using quick-detach
+- Does not allow for quick detach
+- May slip position if jostled and end retention is not present
+### Split-bar Quick-Release Tubes
+
+![image](./images/rocbuckles.png)
+
+This is a set of 2m ROC buckles, they will need to be modified to become split bar.
+
+- QR Tubes require some pushback from tension/weight lateral to the tube in order to disconnect. Waist straps do not provide enough tension to allow tubes to reliably disconnect
+- Requires end retention hardware
+### Split bar Looplock
+
+![image](./images/splitbarloop.png)
+
+This is a generic split-bar loop.
+
+- Very small footprint
+- No quick release whatsoever
+- Requires end retention hardware
+- Metal and Polymer options are available
 
 You may mix and match these types of hardware on your waist strap so you can have one on the left side, and one on the right, but generally speaking I would not suggest this.
 
