@@ -66,7 +66,7 @@ Please note: you may combine multple of these choices! I personally use triglide
 
 Really you can construct this based on vibes, but a little math can help you ballpark your way to the right measurements
 
-1. Attach the chassis-side attachment hardware, if any.
+1. Attach the chassis-side attachment hardware, if any. To feed split-bar hardware onto a webbing loop, insert one edge of the webbing loop into the slot in the hardware. then, push and rotate the webbing until you can cram all of it through that slot. Once all the webbing is inside the slot, straighten it out within the slot so it lays across the bar evenly.
 
 2. Measure out how much slack you want hanging off the end past your retention method. I'd recommend maybe 2-4 inches if using only triglides, 6-8 inches if using onewrap, an 8-10 inches if using both. Keep in mind I am a physically smaller person, larger folks may need more slack for future adjustability. Once you determine your amount of slack, mark the webbing with a pencil or something like that.
 
