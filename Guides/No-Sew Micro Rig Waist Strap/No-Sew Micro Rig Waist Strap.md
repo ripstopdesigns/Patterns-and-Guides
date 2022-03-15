@@ -44,7 +44,7 @@ This is an ITW nexus GTLL 100 Split-Bar slider
 - May slip position if jostled and end retention is not present
 ### Split-bar Quick-Release Tubes
 
-![image](./images/rocbuckles.png)
+![image](./images/rocbuckles.jpg)
 
 This is a set of 2m ROC buckles, they will need to be modified to become split bar.
 
@@ -52,7 +52,7 @@ This is a set of 2m ROC buckles, they will need to be modified to become split b
 - Requires end retention hardware
 ### Split bar Looplock
 
-![image](./images/splitbarloop.png)
+![image](./images/splitbarloop.jpg)
 
 This is a generic split-bar loop.
 
@@ -72,12 +72,24 @@ Split bar hardware is hardware that has been modified (or designed) to have a sm
 The once the waist strap's webbing is fed through your hardware of choice, you will have loose webbing flopping around on the back of your waist strap. The retention hardware will hold this back, flush with the waist strap, but still provide you with the ability to adjust the waist strap if you feel the need in the future. Excess webbing is important because you can change in size over time, and the gear you wear under your chest rig may change in the future (bulky jackets, soft armor, etc).
 
 Your retention hardware choices are as follows, their traits are listed:
-- Triglides
-    - Some people find these uncomfortable and describe them as "digging into" their backs
-    - Metal and Polymer versions are available
-- Dual-Sided Hook & Loop (sold as "OneWrap" by Velcro)
-    - Cannot retain meaningful loads, do not use alone with attachment hardware that requires end retention
-    - Allows you to bundle significant lengths of webbing in a non-intrusive way.
+### Triglides
+![image](./images/plastictriglide.jpg)
+
+This is an ITW Nexus standard plastic triglide
+
+![image](./images/metaltriglide.jpg)
+
+This is an ITW Nexus rounded oval slider
+
+- Some people find these uncomfortable and describe them as "digging into" their backs
+- Metal and Polymer versions are available
+### Dual-Sided Hook & Loop (sold as "OneWrap" by Velcro)
+![image](./images/onewrap.jpg)
+
+This is a roll of Velcro Brand OneWrap.
+
+- Cannot retain meaningful loads, do not use alone with attachment hardware that requires end retention
+- Allows you to bundle significant lengths of webbing in a non-intrusive way.
 
 Please note: you may combine multple of these choices! I personally use triglides closer to my attachment hardware (for their retention strength) followed by OneWrap (to retain a significant excess length of webbing for adjustability).
 
