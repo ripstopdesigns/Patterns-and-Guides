@@ -13,8 +13,7 @@ Most micro rigs use a loop of 1" nylon webbing stitched into the chassis of the 
 ## Chassis Attachment Hardware Choices
 
 For the hardware used to attach the waist strap to the chassis, there are two common choices. Their traits will be provided under each:
-- Split-bar Side-release buckles 
-    - Latch must be ladderloc, body must be split-bar
+- Split-bar Side-release buckles
     - Quick-Detach
     - Hard to accidentally disconnect
     - Holds position without needing end retention
@@ -33,8 +32,11 @@ There are some less-common hardware choices that may work in a pinch, but lack m
 - Split-bar Quick-Release Tubes
     - QR Tubes require some pushback from tension/weight lateral to the tube in order to disconnect. Waist straps do not provide enough tension to allow tubes to reliably disconnect
     - Requires end retention hardware
-    - From what I can tell, only available through Whiskey24 as their "narrow roll wrasslers" set
-- Split bar Loop
+- Split-bar D-Rings + HK-style sling hooks
+    - Metal, jangles around when you move, but more resilient than polymer solutions
+    - The HK hook would be rotated 90 degrees from the D-ring, making it dig into your side
+    - Requires end retention hardware
+- Split bar Looplock
     - Very small footprint
     - No quick release whatsoever
     - Requires end retention hardware
